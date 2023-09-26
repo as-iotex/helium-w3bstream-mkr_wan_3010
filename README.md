@@ -79,7 +79,7 @@ In the Arduino [sketch](HeliumW3bstreamExample.ino), replace **YOUR_DEVICE_NAME*
 
 Follow the next steps to generate your API key:  
 
-- In w3bstream Studio, click on your wallet address in the top-left corner.
+- In w3bstream Studio, click on your wallet address in the top right corner.
 - Click on **Settings**
 - Add a new API key with **Event** privileges set to **Read/Write**.
 - Copy the newly generated API key, you'll need to add it to yout Helium integration later.
